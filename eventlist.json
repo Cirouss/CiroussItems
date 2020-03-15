@@ -16,11 +16,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -58,11 +53,6 @@
 	{
 		"abr": "toxicfallout",
 		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "volcanicwinter",
-		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -122,7 +112,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -177,8 +167,8 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 5000,
-		"karmatype": "Bad"
+		"price": 25000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
@@ -192,7 +182,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 5000,
+		"price": 25000,
 		"karmatype": "Bad"
 	},
 	{
@@ -256,5 +246,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 51
+	"total": 49
 }
