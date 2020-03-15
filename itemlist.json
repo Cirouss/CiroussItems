@@ -1,6 +1,30 @@
 {
 	"items" : [
 	{
+		"abr": "1x2-tisch",
+		"price": 98,
+		"category": "Möbel",
+		"defname": "Table1x2c"
+	},
+	{
+		"abr": "2x2-tisch",
+		"price": 176,
+		"category": "Möbel",
+		"defname": "Table2x2c"
+	},
+	{
+		"abr": "2x4-tisch",
+		"price": 333,
+		"category": "Möbel",
+		"defname": "Table2x4c"
+	},
+	{
+		"abr": "3x3-tisch",
+		"price": 350,
+		"category": "Möbel",
+		"defname": "Table3x3c"
+	},
+	{
 		"abr": "affe",
 		"price": 167,
 		"category": "Animal",
@@ -20,7 +44,7 @@
 	},
 	{
 		"abr": "alligator",
-		"price": 1251,
+		"price": 1250,
 		"category": "Animal",
 		"defname": "AEXP_Alligator"
 	},
@@ -271,6 +295,18 @@
 		"defname": "RawBerries"
 	},
 	{
+		"abr": "befeuerbareschmiede",
+		"price": 333,
+		"category": "Produktion",
+		"defname": "FueledSmithy"
+	},
+	{
+		"abr": "befeuerbarerherd",
+		"price": 265,
+		"category": "Produktion",
+		"defname": "FueledStove"
+	},
+	{
 		"abr": "beinprothese",
 		"price": 433,
 		"category": "Prothetisch",
@@ -295,12 +331,6 @@
 		"defname": "Bed"
 	},
 	{
-		"abr": "bett(tier)",
-		"price": 136,
-		"category": "Möbel",
-		"defname": "AnimalBed"
-	},
-	{
 		"abr": "biberfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -317,12 +347,6 @@
 		"price": 4,
 		"category": "Hergestellt",
 		"defname": "Wort"
-	},
-	{
-		"abr": "bildhauerwerkbank",
-		"price": 425,
-		"category": "Produktion",
-		"defname": "TableSculpting"
 	},
 	{
 		"abr": "billardtisch",
@@ -596,7 +620,7 @@
 	},
 	{
 		"abr": "cembalo",
-		"price": 692,
+		"price": 1025,
 		"category": "Entspannung",
 		"defname": "Harpsichord"
 	},
@@ -775,6 +799,12 @@
 		"defname": "Apparel_Coronet"
 	},
 	{
+		"abr": "dickesfell",
+		"price": 6,
+		"category": "Leder",
+		"defname": "Leather_Heavy"
+	},
+	{
 		"abr": "dickhautdrüse",
 		"price": 1717,
 		"category": "Bionisch",
@@ -859,6 +889,12 @@
 		"defname": "Meat_Dromedary"
 	},
 	{
+		"abr": "dünnesleder",
+		"price": 3,
+		"category": "Leder",
+		"defname": "Leather_Light"
+	},
+	{
 		"abr": "echsenleder",
 		"price": 3,
 		"category": "Leder",
@@ -901,12 +937,6 @@
 		"defname": "SimpleResearchBench"
 	},
 	{
-		"abr": "einfachesleder",
-		"price": 3,
-		"category": "Leder",
-		"defname": "Leather_Plain"
-	},
-	{
 		"abr": "eisbär",
 		"price": 1167,
 		"category": "Animal",
@@ -914,7 +944,7 @@
 	},
 	{
 		"abr": "eisenholz",
-		"price": 3,
+		"price": 2,
 		"category": "Rohstoffe",
 		"defname": "VG_IronWoodLog"
 	},
@@ -971,6 +1001,30 @@
 		"price": 133,
 		"category": "Gegenstände",
 		"defname": "ElephantTusk"
+	},
+	{
+		"abr": "elektrischenähmaschine",
+		"price": 533,
+		"category": "Produktion",
+		"defname": "ElectricTailoringBench"
+	},
+	{
+		"abr": "elektrischeschmiede",
+		"price": 492,
+		"category": "Produktion",
+		"defname": "ElectricSmithy"
+	},
+	{
+		"abr": "elektrischerherd",
+		"price": 375,
+		"category": "Produktion",
+		"defname": "ElectricStove"
+	},
+	{
+		"abr": "elektrischerschmelzofen",
+		"price": 667,
+		"category": "Produktion",
+		"defname": "ElectricSmelter"
 	},
 	{
 		"abr": "ellenbogenklinge",
@@ -1315,6 +1369,12 @@
 		"defname": "RawBarley"
 	},
 	{
+		"abr": "gewaltigeskulptur",
+		"price": 1967,
+		"category": "Kunst",
+		"defname": "SculptureGrand"
+	},
+	{
 		"abr": "giftkralle",
 		"price": 350,
 		"category": "Prothetisch",
@@ -1331,6 +1391,12 @@
 		"price": 239,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Gladius"
+	},
+	{
+		"abr": "glattesleder",
+		"price": 3,
+		"category": "Leder",
+		"defname": "Leather_Plain"
 	},
 	{
 		"abr": "glücklichmacher",
@@ -1373,6 +1439,12 @@
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
+	},
+	{
+		"abr": "großeskulptur",
+		"price": 517,
+		"category": "Kunst",
+		"defname": "SculptureLarge"
 	},
 	{
 		"abr": "großerfußabtreter(blau)",
@@ -1430,7 +1502,7 @@
 	},
 	{
 		"abr": "harfe",
-		"price": 408,
+		"price": 608,
 		"category": "Entspannung",
 		"defname": "Harp"
 	},
@@ -1481,18 +1553,6 @@
 		"price": 166,
 		"category": "Kleidung",
 		"defname": "Apparel_CollarShirt"
-	},
-	{
-		"abr": "herd(elektrisch)",
-		"price": 375,
-		"category": "Produktion",
-		"defname": "ElectricStove"
-	},
-	{
-		"abr": "herd(feuer)",
-		"price": 265,
-		"category": "Produktion",
-		"defname": "FueledStove"
 	},
 	{
 		"abr": "herz",
@@ -1669,6 +1729,12 @@
 		"defname": "Meat_Megaspider"
 	},
 	{
+		"abr": "instabileenergiezelle",
+		"price": 667,
+		"category": "Spezial",
+		"defname": "UnstablePowerCell"
+	},
+	{
 		"abr": "intravenousdripstand",
 		"price": 296,
 		"category": "Diverses",
@@ -1772,9 +1838,15 @@
 	},
 	{
 		"abr": "klavier",
-		"price": 1117,
+		"price": 1417,
 		"category": "Entspannung",
 		"defname": "Piano"
+	},
+	{
+		"abr": "kleineskulptur",
+		"price": 275,
+		"category": "Kunst",
+		"defname": "SculptureSmall"
 	},
 	{
 		"abr": "knie-stachel",
@@ -1897,6 +1969,12 @@
 		"defname": "SunLamp"
 	},
 	{
+		"abr": "künstlerwerkbank",
+		"price": 425,
+		"category": "Produktion",
+		"defname": "TableSculpting"
+	},
+	{
 		"abr": "künstlichesherz",
 		"price": 383,
 		"category": "Prothetisch",
@@ -1904,7 +1982,7 @@
 	},
 	{
 		"abr": "kurzbogen",
-		"price": 74,
+		"price": 114,
 		"category": "Fernkampfwaffen",
 		"defname": "Bow_Short"
 	},
@@ -1958,7 +2036,7 @@
 	},
 	{
 		"abr": "langbogen",
-		"price": 154,
+		"price": 221,
 		"category": "Fernkampfwaffen",
 		"defname": "Bow_Great"
 	},
@@ -2023,24 +2101,6 @@
 		"defname": "Meat_Iguana"
 	},
 	{
-		"abr": "leichtemaschinenpistole",
-		"price": 367,
-		"category": "Fernkampfwaffen",
-		"defname": "Gun_MachinePistol"
-	},
-	{
-		"abr": "leichtesleder",
-		"price": 3,
-		"category": "Leder",
-		"defname": "Leather_Light"
-	},
-	{
-		"abr": "leichtesmaschinengewehr",
-		"price": 708,
-		"category": "Fernkampfwaffen",
-		"defname": "Gun_LMG"
-	},
-	{
 		"abr": "lernassistent",
 		"price": 1717,
 		"category": "Bionisch",
@@ -2063,6 +2123,12 @@
 		"price": 383,
 		"category": "Fernkampfwaffen",
 		"defname": "VWE_Gun_LightSMG"
+	},
+	{
+		"abr": "lmg",
+		"price": 708,
+		"category": "Fernkampfwaffen",
+		"defname": "Gun_LMG"
 	},
 	{
 		"abr": "locker",
@@ -2153,6 +2219,12 @@
 		"price": 2,
 		"category": "Steinblöcke",
 		"defname": "BlocksMarble"
+	},
+	{
+		"abr": "maschinenpistole",
+		"price": 367,
+		"category": "Fernkampfwaffen",
+		"defname": "Gun_MachinePistol"
 	},
 	{
 		"abr": "mechanikwerkbank",
@@ -2363,12 +2435,6 @@
 		"price": 106,
 		"category": "Möbel",
 		"defname": "EndTable"
-	},
-	{
-		"abr": "nähmaschine(elektrisch)",
-		"price": 533,
-		"category": "Produktion",
-		"defname": "ElectricTailoringBench"
 	},
 	{
 		"abr": "nährstoffpaste",
@@ -2636,7 +2702,7 @@
 	},
 	{
 		"abr": "pila-wurfspeere",
-		"price": 182,
+		"price": 275,
 		"category": "Fernkampfwaffen",
 		"defname": "Pila"
 	},
@@ -2990,7 +3056,7 @@
 	},
 	{
 		"abr": "recurvebogen",
-		"price": 110,
+		"price": 163,
 		"category": "Fernkampfwaffen",
 		"defname": "Bow_Recurve"
 	},
@@ -3259,12 +3325,6 @@
 		"defname": "TableButcher"
 	},
 	{
-		"abr": "schlafkiste(tier)",
-		"price": 84,
-		"category": "Möbel",
-		"defname": "AnimalSleepingBox"
-	},
-	{
 		"abr": "schlafsack",
 		"price": 137,
 		"category": "Möbel",
@@ -3277,28 +3337,10 @@
 		"defname": "Meat_Cobra"
 	},
 	{
-		"abr": "schmelzofen(elektrisch)",
-		"price": 667,
-		"category": "Produktion",
-		"defname": "ElectricSmelter"
-	},
-	{
 		"abr": "schmerzstopper",
 		"price": 367,
 		"category": "Prothetisch",
 		"defname": "Painstopper"
-	},
-	{
-		"abr": "schmiede(elektrisch)",
-		"price": 492,
-		"category": "Produktion",
-		"defname": "ElectricSmithy"
-	},
-	{
-		"abr": "schmiede(feuer)",
-		"price": 333,
-		"category": "Produktion",
-		"defname": "FueledSmithy"
 	},
 	{
 		"abr": "schneehase",
@@ -3373,16 +3415,10 @@
 		"defname": "Leather_Pig"
 	},
 	{
-		"abr": "schweremaschinenpistole",
+		"abr": "schweremp",
 		"price": 592,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_HeavySMG"
-	},
-	{
-		"abr": "schweresleder",
-		"price": 6,
-		"category": "Leder",
-		"defname": "Leather_Heavy"
 	},
 	{
 		"abr": "seal",
@@ -3467,24 +3503,6 @@
 		"price": 86,
 		"category": "Möbel",
 		"defname": "Seat_Cushion"
-	},
-	{
-		"abr": "skulptur(gewaltig)",
-		"price": 1967,
-		"category": "Kunst",
-		"defname": "SculptureGrand"
-	},
-	{
-		"abr": "skulptur(groß)",
-		"price": 517,
-		"category": "Kunst",
-		"defname": "SculptureLarge"
-	},
-	{
-		"abr": "skulptur(klein)",
-		"price": 275,
-		"category": "Kunst",
-		"defname": "SculptureSmall"
 	},
 	{
 		"abr": "slabbed",
@@ -3859,34 +3877,22 @@
 		"defname": "PsychicAnimalPulser"
 	},
 	{
+		"abr": "tierbett",
+		"price": 136,
+		"category": "Möbel",
+		"defname": "AnimalBed"
+	},
+	{
+		"abr": "tierkiste",
+		"price": 84,
+		"category": "Möbel",
+		"defname": "AnimalSleepingBox"
+	},
+	{
 		"abr": "timberwolf",
 		"price": 583,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
-	},
-	{
-		"abr": "tisch(1x2)",
-		"price": 98,
-		"category": "Möbel",
-		"defname": "Table1x2c"
-	},
-	{
-		"abr": "tisch(2x2)",
-		"price": 176,
-		"category": "Möbel",
-		"defname": "Table2x2c"
-	},
-	{
-		"abr": "tisch(2x4)",
-		"price": 333,
-		"category": "Möbel",
-		"defname": "Table2x4c"
-	},
-	{
-		"abr": "tisch(3x3)",
-		"price": 350,
-		"category": "Möbel",
-		"defname": "Table3x3c"
 	},
 	{
 		"abr": "toxicgrenades",
@@ -4259,13 +4265,7 @@
 		"price": 94,
 		"category": "Kopfbedeckung",
 		"defname": "Apparel_HatTop"
-	},
-	{
-		"abr": "instabileenergiezelle",
-		"price": 667,
-		"category": "Spezial",
-		"defname": "UnstablePowerCell"
-	},
+	}
 	],
-	"total": 783
+	"total": 711
 }
